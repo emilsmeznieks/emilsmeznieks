@@ -1,5 +1,5 @@
 - Hi, I’m @emilsmeznieks
-- I’m interested in machine learning and AI systems
+- I’m interested in machine learning, AI systems and Agentic AI
 
 <!---
 emilsmeznieks/emilsmeznieks is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
